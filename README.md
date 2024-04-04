@@ -45,7 +45,7 @@ http://127.0.0.1:5000 \
 -d '{"Question":"Jakie silniki posiadał okręt?"}'
 ```
 
-with the sample output:
+with the sample response:
 ```sh
 {
   "score": 0.6079185009002686,
