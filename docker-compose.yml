@@ -1,7 +1,5 @@
-version: '3.4'
-
 services:
-  esok-chatbot:
+  polish-qa-v2:
     build: ./
     container_name: polish-qa-v2
     ports:
